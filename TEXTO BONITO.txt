@@ -1,0 +1,1 @@
+Ao levantar requisitos para construir o SIA, enfrentou-se uma muralha enorme de idiossincrasias que estão entranhadas na alma das escolas da Rede Faetec. Um mundo enorme de particularidades, por vezes absurdas, que resultou no impedimento, até o presente momento, do desenvolvimento de um software que atendesse à todas as necessidades da Escola.
